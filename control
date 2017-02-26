@@ -1,0 +1,9 @@
+Package: com.satbirtanda.characountfornotes9
+Name: CharacountForNotes9
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Add a character count to Notes!
+Maintainer: Satbir Tanda
+Author: Satbir Tanda
+Section: Tweaks
